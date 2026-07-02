@@ -1,4 +1,4 @@
-numpy==1.21.2
+numpy==1.22.0
 configparser==5.0.2
 logging==0.5.1.2
 os==0.1.4
